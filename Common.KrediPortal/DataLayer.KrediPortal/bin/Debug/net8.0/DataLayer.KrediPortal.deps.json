@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataLayer.KrediPortal/1.0.0": {
+        "dependencies": {
+          "Common.KrediPortal": "1.0.0"
+        },
+        "runtime": {
+          "DataLayer.KrediPortal.dll": {}
+        }
+      },
+      "Common.KrediPortal/1.0.0": {
+        "runtime": {
+          "Common.KrediPortal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataLayer.KrediPortal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.KrediPortal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

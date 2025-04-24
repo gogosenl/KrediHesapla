@@ -1,0 +1,11 @@
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\bin\Debug\net8.0\Common.KrediPortal.deps.json
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\bin\Debug\net8.0\Common.KrediPortal.dll
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\bin\Debug\net8.0\Common.KrediPortal.pdb
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\Common.KrediPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\Common.KrediPortal.AssemblyInfoInputs.cache
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\Common.KrediPortal.AssemblyInfo.cs
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\Common.KrediPortal.csproj.CoreCompileInputs.cache
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\Common.KrediPortal.dll
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\refint\Common.KrediPortal.dll
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\Common.KrediPortal.pdb
+C:\Users\GoGo\Desktop\stajProje\Common.KrediPortal\Common.KrediPortal\obj\Debug\net8.0\ref\Common.KrediPortal.dll
